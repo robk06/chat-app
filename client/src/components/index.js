@@ -1,0 +1,14 @@
+//This index.js file is used to export all components so they can be imported
+
+export { default as ChannelContainer } from './ChannelContainer';
+export { default as ChannelListContainer } from './ChannelListContainer';
+export { default as ChannelSearch } from './ChannelSearch';
+export { default as TeamChannelList } from './TeamChannelList';
+export { default as TeamChannelPreview } from './TeamChannelPreview';
+export { default as ChannelInner } from './ChannelInner';
+export { default as CreateChannel } from './CreateChannel';
+export { default as EditChannel } from './EditChannel';
+export { default as MessageSimple } from './MessageSimple';
+export { default as Auth } from './Auth';
+export { default as ResultsDropdown } from './ResultsDropdown';
+export { default as UserList } from './UserList';
